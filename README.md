@@ -30,9 +30,7 @@ Grad student with a background in computer science and a strong interest in heal
     
            
           
-[instagram]: https://www.instagram.com/rezwan_anik/
-[linkedin]: www.linkedin.com/in/rezwan-ahmed1           
-         
+
           
           
 
