@@ -15,10 +15,14 @@ Grad student with a background in computer science and a strong interest in heal
 
 <br />
 
-#
-
            
-          
+### Connect with me:
+
+[![website](./img/linkedin-light.svg)](www.linkedin.com/in/rezwan-ahmed1#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/rezwan-ahmed1#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)          
 
     
            
