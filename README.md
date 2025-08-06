@@ -34,7 +34,7 @@ Grad student with a background in computer science and a strong interest in heal
 
 <br clear="left"/>
 
-
+--
 
 ### 🔍 Current Focus
 - Building interpretable machine learning models for **public health analytics**  
