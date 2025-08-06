@@ -24,7 +24,7 @@ Grad student with a background in computer science and a strong interest in heal
           
           
           
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+          
           
 
           
