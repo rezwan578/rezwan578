@@ -24,7 +24,9 @@ Grad student with a background in computer science and a strong interest in heal
 <img align="left" alt="Matplitlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 <img align="left" alt="Scikitlearn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 <img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/tensorflow/original.svg" />
-          
+<img align="left" alt="Keras" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />   
+<img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+
 
         
           
