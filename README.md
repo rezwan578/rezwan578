@@ -18,7 +18,7 @@ Grad student with a background in computer science and a strong interest in heal
            
     
 ### Libraries
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/pandas/original.svg" />
+<img align="left" alt="GitHub" width="40px" style="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23FFFFFF" />
           
 
         
