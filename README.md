@@ -21,7 +21,6 @@ Grad student with a background in computer science and a strong interest in heal
 
 <br clear="left"/>
 
----
 
 ### Libraries
 
