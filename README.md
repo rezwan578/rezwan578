@@ -29,6 +29,26 @@ Grad student with a background in computer science and a strong interest in heal
 
 <br />
 
+## 🛠 Languages & Tools I Work With
+
+### 👨‍💻 Programming & Query Languages
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **SQL** (MySQL, PostgreSQL)
+- **R** (Data visualization, statistical analysis)
+
+### 📊 Data Analysis & Visualization
+- **Power BI**, **Tableau**
+- **Excel (Advanced)** – Pivot Tables, Power Query
+- **Plotly**, **ggplot2**
+
+### 🤖 Machine Learning & AI
+- **Scikit-learn**, **XGBoost**, **LightGBM**
+- **TensorFlow**, **PyTorch** (basic deep learning projects)
+
+### ⚙️ Tools & Platforms
+- **Jupyter Notebook**, **Google Colab**
+- **Git** & **GitHub**
+- **APIs** (REST, JSON)
 
           
           
