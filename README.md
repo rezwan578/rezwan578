@@ -36,7 +36,6 @@ Grad student with a background in computer science and a strong interest in data
 ---
 
 ### Current Focus
-- Building interpretable machine learning models for **public health analytics**  
 - Conducting **health perceptions analysis** using population-scale datasets       
           
        
