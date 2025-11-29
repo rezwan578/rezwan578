@@ -36,7 +36,7 @@ Grad student with a background in computer science and a strong interest in data
 ---
 
 ### Current Focus
-- Conducting **health perceptions Research** using population-scale datasets       
+- Conducting **health perceptions research** using population-scale datasets       
           
        
           
