@@ -1,6 +1,6 @@
 # Hello World! 👋 
 
-Grad student with a background in computer science and a strong interest in data science, health analytics, behavioral data, and machine learning. Passionate about building interpretable models, uncovering patterns in population-scale datasets, and applying data-driven approaches to real-world problems.  
+Data science and analytics graduate student at Cardiff University with a computer science background, interested in health analytics, behavioral data, and machine learning. Passionate about interpretable models and population-scale data analysis.
 
 
 ---
