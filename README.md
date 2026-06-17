@@ -1,4 +1,4 @@
-# Hi, I'm Rezwan Ahmed 👋
+# Hi, I'm Rezwan 👋
 
 My research interests lie at the intersection of applied machine learning, health data science, medical imaging, public health analytics, and trustworthy AI. I have a background in Computer Science and am currently pursuing an MSc in Data Science and Analytics at Cardiff University, Cardiff, UK.
 
