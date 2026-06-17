@@ -26,21 +26,19 @@ My research interests lie at the intersection of applied machine learning, healt
 
 ## Selected Publications
 
-* **Leveraging Machine Learning for Predicting Health Perceptions: A Behavioral Analytics Approach Using U.S. National Survey Data**
+* **Leveraging Machine Learning for Predicting Health Perceptions: A Behavioral Analytics Approach Using U.S. National Survey Data** [View publication](https://aisel.aisnet.org/iceb2025/1/)
+
   
   Focus: Public health analytics, machine learning, behavioural risk factors, and self-rated health prediction.
-  [View publication](https://aisel.aisnet.org/iceb2025/1/)
 
-* **Public Health Responsible AI Capability (PH-RAIC) Framework: A Conceptual Model for Integrating AI into Public Health Agencies**
+* **Public Health Responsible AI Capability (PH-RAIC) Framework: A Conceptual Model for Integrating AI into Public Health Agencies** [View publication](https://doi.org/10.3390/healthcare14101364)
   
   Focus: Responsible AI, public health governance, institutional AI capability, and trustworthy AI adoption.
-  [View publication](https://doi.org/10.3390/healthcare14101364)
 
-* **Blockchain for Building Trust in Genomic Initiatives**
+
+* **Blockchain for Building Trust in Genomic Initiatives** [View publication](https://doi.org/10.1002/wmh3.641)
 
   Focus: Digital health, genomic data governance, trust, and responsible innovation.
-  [View publication](https://doi.org/10.1002/wmh3.641)
-
 
 
 
