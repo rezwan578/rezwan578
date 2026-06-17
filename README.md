@@ -26,6 +26,11 @@ My research interests lie at the intersection of applied machine learning, healt
 
 ## Selected Publications
 
+* **Public Health Responsible AI Capability (PH-RAIC) Framework: A Conceptual Model for Integrating AI into Public Health Agencies**
+  
+  Focus: Responsible AI, public health governance, institutional AI capability, and trustworthy AI adoption.
+  [View publication](https://doi.org/10.3390/healthcare14101364)
+
 * **Blockchain for Building Trust in Genomic Initiatives**
 
   Focus: Digital health, genomic data governance, trust, and responsible innovation.
@@ -36,10 +41,6 @@ My research interests lie at the intersection of applied machine learning, healt
   Focus: Public health analytics, machine learning, behavioural risk factors, and self-rated health prediction.
   [View publication](https://aisel.aisnet.org/iceb2025/1/)
 
-* **Public Health Responsible AI Capability (PH-RAIC) Framework: A Conceptual Model for Integrating AI into Public Health Agencies**
-  
-  Focus: Responsible AI, public health governance, institutional AI capability, and trustworthy AI adoption.
-  [View publication](https://doi.org/10.3390/healthcare14101364)
 
 
 
